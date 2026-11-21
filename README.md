@@ -1,16 +1,19 @@
-## Hi there 👋
+## Halo, saya Iin Suhana 👋
 
-<!--
-**iinsuhana6-sudo/iinsuhana6-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mahasiswi Teknik Informatika semester 7 di Universitas Indonesia Timur, Makassar.
+Saya sedang mencari kesempatan Kuliah Kerja Praktik (KKP) dan senang belajar hal baru.
 
-Here are some ideas to get you started:
+### Proyek Kampus
+- **Website Hana Cell Smartfren**: website informasi produk pulsa dan paket internet
+- **Website Laundry Bubble Bros**: website untuk usaha jasa laundry
+- **Website Penjualan Emas**: website penjualan dengan PHP dan MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Keterampilan
+HTML, CSS, PHP, MySQL, XAMPP, Canva, Microsoft Office
+
+### Pengalaman Organisasi
+- Koordinator Divisi Humas BEM (2023 - 2024)
+- Panitia PPKMB: Humas (2024), Koordinator Konsumsi (2025)
+
+### Kontak
+📧 iinsuhana6@gmail.com
